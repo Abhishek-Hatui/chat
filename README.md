@@ -1,3 +1,6 @@
+#Hosted website:
+https://chat-bot-py.onrender.com/
+
 # Contribution Guidelines
 
 We welcome contributions to this project! Before you get started, please take a moment to read through the following guidelines.
