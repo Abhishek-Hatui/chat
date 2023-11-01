@@ -54,5 +54,3 @@ Your PR will be reviewed by the maintainers. Please be responsive to any feedbac
 Thank you for your contribution!
 
 ---
-
-Note: Make sure to replace placeholders like `your-username`, `repository-name`, and `feature/your-feature` with the appropriate information for your project. Additionally, customize the guidelines to fit the specific needs of your repository.
